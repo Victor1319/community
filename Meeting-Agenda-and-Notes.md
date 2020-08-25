@@ -11,4 +11,4 @@
 
 - Publicize the functions under development in the form of Issue, PR, or code branch to improve the efficiency of community collaboration.
 
-- Increase the development priority of spark shuffle on chubaofs. The JD.com team discloses the current design and code, and community contributors collaborate to complete the development of this feature.
+- Increase the development priority of **Spark Shuffle on ChubaoFS**. The JD.com team discloses the current design and code, and community contributors collaborate to complete the development of this feature.

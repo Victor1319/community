@@ -1,4 +1,4 @@
-## Community Meeting Agenda and Notes
+## Community Meeting Minutes
 
 ### 2020/08/25
 

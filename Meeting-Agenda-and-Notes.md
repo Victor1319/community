@@ -3,6 +3,7 @@
 ### 2020/09/01
 
 - Spark Shuffle on ChubaoFS Discussion - by @zhuzhengyi
+- Consider optimizing the write logic of shuffle in the Spark plugin
 
 Attachments: 
 - [Meeting Record](https://zoom.com.cn/rec/share/nEabSJWRxn1RV-aFA8_uHwYH411nynvYW5oGh77KgvaKznMwA9qjILPMY7JSf22h.aWZToRwEsINDOIDz?startTime=1598965131000)

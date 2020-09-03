@@ -1,7 +1,7 @@
 ## Community Meeting Schedule
 
-Time zone: Beijing, Shanghai
-Language: Simplified Chinese
+**Time zone:** Beijing, Shanghai<br>
+**Language:** Simplified Chinese
 
 | Scheduled Time | Speakers   | Attendees | Topic | Meeting ID | Links |
 | -------------- | ---------- | --------- | ----- | ---------- | ----- |

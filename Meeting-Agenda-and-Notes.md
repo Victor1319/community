@@ -2,7 +2,21 @@
 
 ### 2020/09/01
 
+Topic:
+- Community update.
 - Spark Shuffle on ChubaoFS Discussion - by @zhuzhengyi
+- ChubaoFS Java SDK Discussion - by @shuoranliu
+
+Speaker:
+- @mervinkid
+- @zhuzhengyi
+
+Attendees:
+- @shuoranliu
+- @Vivian7755
+- @hooklee2000 
+
+Minutes:
 - Consider optimizing the write logic of shuffle in the Spark plugin
 
 Attachments: 
@@ -10,8 +24,23 @@ Attachments:
 - [Presentation - ChubaoFS Community Meeting 2020-09-01](https://github.com/chubaofs/chubaofs/files/5165754/ChubaoFS.Community.Meeting.2020-09-01.pdf)
 - [Presentation - ChubaoFS Spark Shuffle](https://github.com/chubaofs/chubaofs/files/5165848/ChubaoFS.Spark.Shuffle.Research.pdf)
 
+***
+
 ### 2020/08/25
 
+Topic:
+- Community update
+
+Speaker: 
+- @mervinkid
+
+Attendees: 
+- @awzhgw
+- @shuoranliu
+- @Vivian7755
+- @hooklee2000 
+
+Minutes:
 - Every community meeting announces the schedule and topic of the meeting 3 to 7 days in advance.
 
 - Community meetings mainly include the following three forms of content:

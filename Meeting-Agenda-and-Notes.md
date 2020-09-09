@@ -1,5 +1,32 @@
 ## Community Meeting Minutes
 
+### 2020/09/08
+Topic:
+- Community update.
+- Introducing data partition selector.(PR[#853](https://github.com/chubaofs/chubaofs/pull/853)) - by @yinlei-jinan
+- Discussion on feature request for automatic expanding of volume capacity.
+
+Speaker:
+- @mervinkid
+- @yinlei-jinan
+
+Attendees:
+- @shuoranliu
+- @Vivian7755
+- @awzhgw
+- @hooklee2000 
+
+Minutes:
+
+- Accept the feature request that automatic expanding of volume capacity.
+
+Attachments:
+
+- [ChubaoFS Community Meeting 2020-09-08.pdf](https://github.com/chubaofs/chubaofs/files/5192669/ChubaoFS.Community.Meeting.2020-09-08.pdf)
+- [Introduce Datapartition Selector.pdf](https://github.com/chubaofs/chubaofs/files/5192678/Introduce.Datapartition.Selector.pdf)
+
+***
+
 ### 2020/09/01
 
 Topic:

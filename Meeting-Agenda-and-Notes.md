@@ -22,6 +22,7 @@ Minutes:
 
 Attachments:
 
+- [Meeting Record](https://zoom.com.cn/rec/share/H33yQk9iLnUpQ65eBOrbw73OmrnnbCDCHcc81cgwABVw1Ea59ZV0GrRHRXkGeFc.-YyxwDuc6En1tRX_?startTime=1599568863000)
 - [ChubaoFS Community Meeting 2020-09-08.pdf](https://github.com/chubaofs/chubaofs/files/5192669/ChubaoFS.Community.Meeting.2020-09-08.pdf)
 - [Introduce Datapartition Selector.pdf](https://github.com/chubaofs/chubaofs/files/5192678/Introduce.Datapartition.Selector.pdf)
 

@@ -1,5 +1,22 @@
 ## Community Meeting Minutes
 
+### 2020/09/22
+Topic:
+- Community update
+
+Speaker:
+- @mervinkid
+
+Attendees:
+- @shuoranliu
+
+Minutes:
+- ChubaoFS `v2.2.2` released. For detail see PR[#939](https://github.com/chubaofs/chubaofs/pull/939).
+- ChubaoFS CSI `v2.2.2.110.0` for ChubaoFS `v2.2.2` and CSI `v1.1.0` will be released before Oct 1, 2020.
+- ChubaoFS CSI `v2.2.2.030.0` for ChubaoFS `v2.2.2` and CSI `v0.3.0` will be released before Oct 1, 2020.
+- ChubaoFS Helm `v2.2.2.110.0` for ChubaoFS `v2.2.2`, CSI `v1.1.0` and Helm 3 will be released before Oct 1, 2020.
+- ChubaoFS Helm `v2.2.2.030.0` for ChubaoFS `v2.2.2`, CSI `v0.3.0` and Helm 3 will be released before Oct 1, 2020.
+
 ### 2020/09/08
 Topic:
 - Community update.

@@ -17,6 +17,9 @@ Minutes:
 - ChubaoFS Helm `v2.2.2.110.0` for ChubaoFS `v2.2.2`, CSI `v1.1.0` and Helm 3 will be released before Oct 1, 2020.
 - ChubaoFS Helm `v2.2.2.030.0` for ChubaoFS `v2.2.2`, CSI `v0.3.0` and Helm 3 will be released before Oct 1, 2020.
 
+Attachements:
+- [ChubaoFS Community Meeting 2020-09-22.pdf](https://github.com/chubaofs/chubaofs/files/5274095/ChubaoFS.Community.Meeting.2020-09-22.pdf)
+
 ***
 
 ### 2020/09/08

@@ -2,11 +2,13 @@
 
 The ChubaoFS Project holds weekly community online meeting. 
 
-**Meeting Link:** [https://zoom.com.cn/j/85431969917](https://zoom.com.cn/j/85431969917)
+**Meeting Link:** [`854 3196 9917`](https://zoom.com.cn/j/85431969917)
 
-**Time zone:** Beijing, Shanghai
+**Meeting Password:** `VE2Ux4`
 
-**Language:** Simplified Chinese
+**Time zone:** `Beijing, Shanghai`
+
+**Language:** `Simplified Chinese`
 
 ***
 

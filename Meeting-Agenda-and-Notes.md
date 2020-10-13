@@ -1,5 +1,26 @@
 ## Community Meeting Minutes
 
+### 2020/10/13
+Topic:
+- ChubaoFS Java SDK and Hadoop Plugin Design and shell demo.
+
+Speaker:
+- @mervinkid
+- @nishuihan
+
+Attendees:
+- @shuoranliu
+- @hooklee2000 
+
+Minutes:
+- ChubaoFS Hadoop Plugin repository: [chubaofs-hadoop](https://github.com/chubaofs/chubaofs-hadoop)
+- Dynamic library and Java SDK (low-level API) development branch: [chubaofs:libsdk-dev](https://github.com/chubaofs/chubaofs/tree/libsdk-dev)
+- Dynamic library and Java SDK (high-level API) development branch: [chubaofs:libsdk-hl-dev](https://github.com/chubaofs/chubaofs/tree/libsdk-hl-dev)
+- The code and functions of `libsdk-dev` and `libsdk-hl-dev` will be integrated.
+
+Attachments:
+- [ChubaoFS Java SDK and Hadoop Plugin.pdf](https://github.com/chubaofs/chubaofs/files/5372055/ChubaoFS.Java.SDK.and.Hadoop.Plugin.pdf)
+
 ### 2020/09/22
 Topic:
 - Community update

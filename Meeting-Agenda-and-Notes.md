@@ -21,6 +21,8 @@ Minutes:
 Attachments:
 - [ChubaoFS Java SDK and Hadoop Plugin.pdf](https://github.com/chubaofs/chubaofs/files/5372055/ChubaoFS.Java.SDK.and.Hadoop.Plugin.pdf)
 
+***
+
 ### 2020/09/22
 Topic:
 - Community update

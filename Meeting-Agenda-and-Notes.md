@@ -20,6 +20,7 @@ Minutes:
 
 Attachments:
 - [ChubaoFS Java SDK and Hadoop Plugin.pdf](https://github.com/chubaofs/chubaofs/files/5372055/ChubaoFS.Java.SDK.and.Hadoop.Plugin.pdf)
+- [Meeting Record](https://youtu.be/xSwxnNb6C0E)
 
 ***
 

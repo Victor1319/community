@@ -1,6 +1,6 @@
 ## Community Meeting Schedule
 
-The ChubaoFS Project holds weekly community online meeting. 
+The ChubaoFS Project holds bi-weekly community online meeting. 
 
 **Meeting Link:** [`854 3196 9917`](https://zoom.com.cn/j/85431969917)
 

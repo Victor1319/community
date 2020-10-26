@@ -14,6 +14,7 @@ The ChubaoFS Project holds bi-weekly community online meeting.
 
 | Scheduled Time | Speakers   | Attendees | Topic | Links |
 | -------------- | ---------- | --------- | ----- | ----- |
+| 2020/10/27 21:00 | @mervinkid<br> | @shuoranliu | 1. Community update.<br> 2. Volume IO monitoring discussion. |
 | 2020/10/13 21:00 | @mervinkid<br> | @shuoranliu<br>@nishuihan | Java SDK & Hadoop Plugin Design & shell demo | [Minutes](https://github.com/chubaofs/community/wiki/Meeting-Agenda-and-Notes#20201013) [Record](https://youtu.be/xSwxnNb6C0E) | 
 | 2020/09/22 21:00 | @mervinkid<br> | @shuoranliu | Community update. | [Minutes](https://github.com/chubaofs/community/wiki/Meeting-Agenda-and-Notes#20200922)
 | 2020/09/08 21:00 | @mervinkid<br>@yinlei-jinan | @awzhgw<br>@shuoranliu<br>@Vivian7755 | 1. Community update.<br>2. Introducing DataPartition selector - by @yinlei-jinan | [Record](https://zoom.com.cn/rec/share/jruIRcvYpPkdi-0NAlE9UaktlBO9ZGsIwhy4KxhktIgS4PDI8qkaGVs6w7Ht4oM.qFzoqTNgitXNDhAr?startTime=1599568863000) [Minutes](https://github.com/chubaofs/community/wiki/Meeting-Agenda-and-Notes#20200908) |

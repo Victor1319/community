@@ -1,10 +1,12 @@
 ## Community Meeting Schedule
 
-The ChubaoFS Project holds bi-weekly community online meeting. 
+The ChubaoFS Project holds bi-weekly community online meeting.
 
-**Meeting Link:** [`854 3196 9917`](https://zoom.com.cn/j/85431969917)
+**Meeting Application:** [Tencent Meeting](https://meeting.tencent.com)
 
-**Meeting Password:** `VE2Ux4`
+**Meeting Link:** [`803 2183 9013`](https://meeting.tencent.com/s/b0j60lZ6O3Ym)
+
+**Meeting Passcode:** `None`
 
 **Time zone:** `Beijing, Shanghai`
 

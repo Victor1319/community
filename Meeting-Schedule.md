@@ -2,11 +2,11 @@
 
 The ChubaoFS Project holds bi-weekly community online meeting.
 
-**Meeting Application:** [Tencent Meeting](https://meeting.tencent.com)
+**Meeting Application:** [ZOOM Meeting](https://oppo.zoom.com.cn/j/68177390826?pwd=eVdYc2JFWHQ0eEl1MExDbnEyVGxGdz09)
 
-**Meeting Link:** [`803 2183 9013`](https://meeting.tencent.com/s/b0j60lZ6O3Ym)
+**Meeting Link:** [`68177390826`](https://oppo.zoom.com.cn/j/68177390826?pwd=eVdYc2JFWHQ0eEl1MExDbnEyVGxGdz09)
 
-**Meeting Passcode:** `None`
+**Meeting Passcode:** `075861`
 
 **Time zone:** `Beijing, Shanghai`
 

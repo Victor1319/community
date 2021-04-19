@@ -1,5 +1,31 @@
 ## Community Meeting Minutes
+### 2021/04/22
+Topic:
+- 
+ 1) ChubaoFs 2.4 release update report. 
+ 2) ChubaoFS support cross zone
+ 3) ChubaoFs support Dir content summary
+Speaker:
+- @龚名威
+- @常量
+- @张天炯
 
+Attendees:
+- @shuoranliu
+- @龚名威
+- @常量
+- @张天炯
+- @SEASAN666
+- @王红岩
+
+Attachments:
+- [ChubaoFs 2.4 release update report.pdf]()
+- [ChubaoFS support cross zone.pdf]()
+- [ChubaoFs support Dir content summary.pdf]()
+- [Meeting Record]()
+
+
+***
 ### 2020/10/13
 Topic:
 - ChubaoFS Java SDK and Hadoop Plugin Design and shell demo.

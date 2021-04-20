@@ -16,7 +16,7 @@ The ChubaoFS Project holds bi-weekly community online meeting.
 
 | Scheduled Time | Speakers   | Attendees | Topic | Links |
 | -------------- | ---------- | --------- | ----- | ----- |
-| 2021/04/19 15:00 | @张天炯<br>@常量<br>@龚名威| @shuoranliu<br>@张天炯 <br>@常量 <br>@王红岩  <br> @曾雪伟<br>@龚名威| 1. 2.4 release 版本更新进展.<br> 2. 支持跨VOL ZONE版本. <br> 3. 支持目录统计 |[Minutes](https://github.com/chubaofs/community/wiki/Meeting-Agenda-and-Notes#20201013)
+| 2021/04/19 15:00 | @张天炯<br>@常量<br>@龚名威| @shuoranliu<br>@张天炯 <br>@常量 <br>@王红岩  <br> @曾雪伟<br>@龚名威| 1. 2.4 release 版本更新进展.<br> 2. 支持VOL跨ZONE版本. <br> 3. 支持目录统计 |[Minutes](https://github.com/chubaofs/community/wiki/Meeting-Agenda-and-Notes#20201013)
 | 2020/10/27 21:00 | @mervinkid<br> | @shuoranliu<br>@jzice | 1. Community update.<br> 2. Volume IO monitoring discussion. |
 | 2020/10/13 21:00 | @mervinkid<br> | @shuoranliu<br>@nishuihan | Java SDK & Hadoop Plugin Design & shell demo | [Minutes](https://github.com/chubaofs/community/wiki/Meeting-Agenda-and-Notes#20201013) [Record](https://youtu.be/xSwxnNb6C0E) | 
 | 2020/09/22 21:00 | @mervinkid<br> | @shuoranliu | Community update. | [Minutes](https://github.com/chubaofs/community/wiki/Meeting-Agenda-and-Notes#20200922)

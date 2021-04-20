@@ -3,7 +3,7 @@
 Topic:
 - 
  1) ChubaoFs 2.4 release update report. 
- 2) ChubaoFS support cross zone
+ 2) ChubaoFS support vol cross zone
  3) ChubaoFs support Dir content summary
 Speaker:
 - @龚名威
@@ -19,10 +19,7 @@ Attendees:
 - @王红岩
 
 Attachments:
-- [ChubaoFs 2.4 release update report.pdf]()
-- [ChubaoFS support cross zone.pdf]()
-- [ChubaoFs support Dir content summary.pdf]()
-- [Meeting Record]()
+- [Meeting Record]
 
 
 ***

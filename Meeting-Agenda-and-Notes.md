@@ -17,6 +17,7 @@ Attendees:
 - @张天炯
 - @SEASAN666
 - @王红岩
+- @曾雪伟
 
 Minutes:
 - ChubaoFS `v2.2.4` released. 

@@ -17,10 +17,14 @@ Attendees:
 - @张天炯
 - @SEASAN666
 - @王红岩
-
+Minutes:
+- ChubaoFS `v2.2.4` released. 
+- ChubaoFS support vol cross zone
+- ChubaoFs support Dir content summary
 Attachments:
 - [Meeting Record]
-
+- [cross_zone.pdf](https://github.com/chubaofs/community/wiki/metting-doc/cross_zone.pdf)
+- [getsummary.pdf](https://github.com/chubaofs/community/wiki/metting-doc/getsummary.pdf)
 
 ***
 ### 2020/10/13

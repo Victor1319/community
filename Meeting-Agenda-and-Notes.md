@@ -2,7 +2,7 @@
 ### 2021/04/22
 Topic:
 - 
- 1) ChubaoFs 2.4 release update report. 
+ 1) ChubaoFs 2.4 release update. 
  2) ChubaoFS support vol cross zone
  3) ChubaoFs support Dir content summary
 Speaker:

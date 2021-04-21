@@ -5,6 +5,7 @@ Topic:
  1) ChubaoFs 2.4 release update. 
  2) ChubaoFS support vol cross zone
  3) ChubaoFs support Dir content summary
+
 Speaker:
 - @龚名威
 - @常量

@@ -21,7 +21,7 @@ Attendees:
 - @曾雪伟
 
 Minutes:
-- ChubaoFS `v2.2.4` released. 
+- ChubaoFS v2.4 released. 
 - ChubaoFS support vol cross zone
 - ChubaoFs support Dir content summary
 

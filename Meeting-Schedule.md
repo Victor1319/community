@@ -2,11 +2,11 @@
 
 The ChubaoFS Project holds bi-weekly community online meeting.
 
-**Meeting Application:** [ZOOM Meeting](https://oppo.zoom.com.cn/j/63144309468?pwd=WHArejU1Si8xNHJTSDBSNGVZeEV5QT09)
+**Meeting Application:** [ZOOM Meeting](https://oppo.zoom.com.cn/j/63041972215?pwd=aVdocnI2T2RnRitVaEQwR1hwOEFtZz09)
 
-**Meeting Link:** [`63144309468`](https://oppo.zoom.com.cn/j/63144309468?pwd=WHArejU1Si8xNHJTSDBSNGVZeEV5QT09)
+**Meeting Link:** [`63041972215`](https://oppo.zoom.com.cn/j/63041972215?pwd=aVdocnI2T2RnRitVaEQwR1hwOEFtZz09)
 
-**Meeting Passcode:** `019240`
+**Meeting Passcode:** `587823`
 
 **Time zone:** `Beijing, Shanghai`
 
